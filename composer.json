@@ -21,7 +21,7 @@
         "email": "lucy+havokn@naln1.ca",
         "issues": "https://fossil.peepee.party/emojihash/ticket",
         "forum": "https://fossil.peepee.party/emojihash/forum",
-        "source": "https://fossil.peepee.party/emojihash/dir?name=php&ci=tip"
+        "source": "https://fossil.peepee.party/emojihash/file?name=php/havokn.php"
     },
     "require": {
         "php": ">=8.0"
