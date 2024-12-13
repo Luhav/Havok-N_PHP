@@ -53,6 +53,10 @@ collision.
 
 ## Usage
 
+```sh
+composer require luhav/havok-n
+```
+
 ```php
 use Luhav\HavokN;
 
